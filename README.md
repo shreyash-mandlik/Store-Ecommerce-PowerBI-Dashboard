@@ -31,5 +31,8 @@ Provide business stakeholders a visual overview of sales trends, category perfor
 - Maharashtra & Madhya Pradesh lead in regional sales
 - Q4 shows peak sales performance
 
+## 📥 Download Dashboard
+[Click here to download .pbix file](YOUR_GOOGLE_DRIVE_LINK)
+
 ## 👤 Author
 [Shreyash Mandlik](https://github.com/shreyash-mandlik)
